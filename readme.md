@@ -19,7 +19,7 @@ This project is an MVP for a Training Center registry built with Java and Spring
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/traini8.git
+   git clone https://github.com/Aryanag03/traini8.git
 
 2. Navigate to the project directory:
    ```bash
@@ -33,6 +33,6 @@ This project is an MVP for a Training Center registry built with Java and Spring
    ```bash
    mvn spring-boot:run
 
-### API Endpoints
+## API Endpoints
 1. POST /api/training-centers
 2. GET /api/training-centers
