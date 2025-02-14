@@ -37,7 +37,8 @@ This project is an MVP for a Training Center registry built with Java and Spring
 1. POST /api/training-centers
 2. GET /api/training-centers
 
-##Database Configuration (H2)
+## Database Configuration (H2)
+
 This project uses an H2 in-memory database for development and testing.
 
 1. H2 Console (Web UI)
